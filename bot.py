@@ -198,9 +198,9 @@ def choose_random() -> str:
         "Five Seven Dual Wield", "M2 Flamethrower", "SCAR-H",
     ]
     weapons = wonder + regular + regular + regular + regular
-    print(weapons)
+    # print(weapons)
     choice = random.choice(weapons)
-    print(len(weapons))
+    # print(len(weapons))
     return choice
 
 
