@@ -274,4 +274,5 @@ async def swap_weapons(context, users, user, weapon):
             context.message.author.id))
 
 
-client.run('NzI1MTQxMjk0NzkxMjYyMjQ4.XvKadQ.TXpFdt4FuemK7Ertw9k_b3WAUjk')
+# Put your discord bot token here
+client.run('INSERT YOUR TOKEN HERE')
